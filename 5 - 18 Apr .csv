@@ -1,0 +1,221 @@
+# ----------------------------------------
+# Ekspor CSV Laporan
+# Akun: Aji Prasetyo
+# Properti: SACA&D Monitoring - GA4
+# ----------------------------------------
+#  
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Hari ke-n,Pengguna
+0000,7
+0001,5
+0002,4
+0003,3
+0004,12
+0005,4
+0006,7
+0007,4
+0008,8
+0009,5
+0010,7
+0011,3
+0012,6
+0013,21
+
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Hari ke-n,Pengguna baru
+0000,5
+0001,5
+0002,3
+0003,2
+0004,10
+0005,2
+0006,6
+0007,2
+0008,7
+0009,2
+0010,6
+0011,2
+0012,3
+0013,18
+
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Hari ke-n,Waktu engagement rata-rata
+0000,53.857142857142854
+0001,829.4
+0002,1626.75
+0003,1648
+0004,298.6666666666667
+0005,950.25
+0006,555.2857142857143
+0007,7
+0008,906.5
+0009,106.2
+0010,169.28571428571428
+0011,662
+0012,48.666666666666664
+0013,52.04761904761905
+
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Hari ke-n,Pendapatan total
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+
+# Dari mana pengguna baru Anda berasal?
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Grup saluran utama pengguna pertama (Grup Saluran Default),Pengguna baru
+Direct,35
+Organic Search,27
+Referral,11
+
+#  
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Grup saluran utama sesi (Grup Saluran Default),Sesi
+Direct,57
+Organic Search,41
+Referral,17
+Unassigned,2
+
+#  
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+ID Negara,Pengguna
+DE,1
+GB,5
+HK,1
+ID,41
+IR,1
+JP,6
+KH,1
+NL,3
+SG,5
+TW,1
+US,14
+WS,1
+ZW,1
+
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Negara,Pengguna
+ID,41
+US,14
+JP,6
+GB,5
+SG,5
+NL,3
+DE,1
+
+# Bagaimana tren di antara pengguna aktif?
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Hari ke-n,30 hari,7 hari,1 hari
+0000,29,29,7
+0001,34,34,5
+0002,37,37,4
+0003,39,39,3
+0004,49,49,12
+0005,51,46,4
+0006,57,36,7
+0007,59,31,4
+0008,66,34,8
+0009,68,33,5
+0010,74,37,7
+0011,76,29,3
+0012,80,31,6
+0013,100,46,21
+
+# Seberapa baik Anda dalam mempertahankan pengguna?
+# Tanggal mulai: 20240303
+# Tanggal akhir: 20240413
+Tanggal,Minggu ke-0,Minggu ke-1,Minggu ke-2,Minggu ke-3,Minggu ke-4,Minggu ke-5
+3 Mar - 9 Mar,1,0,0,0,0,0
+10 Mar - 16 Mar,0,0,0,0,0,-1
+17 Mar - 23 Mar,0,0,0,0,-1,-1
+24 Mar - 30 Mar,0,0,0,-1,-1,-1
+31 Mar - 6 Apr,32,2,-1,-1,-1,-1
+7 Apr - 13 Apr,32,-1,-1,-1,-1,-1
+
+#  
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Judul halaman dan jenis layar,Tampilan
+Home Southeast Asian Climate Assessment & Dataset,3597
+Custom query in ASCII,116
+SA-OBS gridded dataset,43
+Daily data,33
+Time series plot,21
+Country query,10
+Indices of extremes,10
+Data dictionary,8
+Chunks of SA-OBS gridded dataset,7
+Frequently Asked Questions,6
+Project info,6
+Summary of selection,6
+Data availability maps,4
+Elements,4
+Series available in the SACA dataset,4
+Data harian,3
+Indices data,3
+Predefined files in ASCII,3
+Examples of extreme events in SA-OBS,2
+Indices maps,2
+Informasi tambahan,2
+Number of stations per year,2
+Query results,2
+SACA&D participants,2
+Indeks data,1
+Indeks ekstrim,1
+Indices dictionary,1
+Kustomisasi queri dalam ASCII,1
+Participating countries,1
+Pertanyaan yang Sering Diajukan,1
+SA-OBS dataset grid,1
+
+#  
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Nama peristiwa,Jumlah peristiwa
+page_view,4200
+user_engagement,2021
+session_start,115
+first_visit,73
+
+# Apa konversi teratas Anda?
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Nama peristiwa,Peristiwa utama
+
+
+# Dari mana asal LTV Anda?
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Grup saluran utama pengguna pertama (Grup Saluran Default),LTV
+
+
+#  
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Nama item,Item yang dibeli
+
+
+# Apa perbedaan antara aktivitas platform Anda yang satu dengan yang lain?
+# Tanggal mulai: 20240405
+# Tanggal akhir: 20240418
+Platform,Peristiwa utama
